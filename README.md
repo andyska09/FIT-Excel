@@ -2,7 +2,7 @@
 
 This is a solution for homework project for C++ course at FIT CTU. The main task to implement class that will function as a spreadsheet processor. The main part was about implementing Abstract syntax tree using C++ polymorphism. Syntax analyzer was provided. 
 
-This (my) solution was able to pass all of the basic tests. The solution could be improved and expanded in many ways.
+This (my) solution was able to pass all of the basic tests. Most of my solution is in CSpreadSheet.cpp/.hpp. The solution could be improved and expanded in many ways.
 
 ## Brief task description
 The task is to implement a class (or a set of classes) that will function as a spreadsheet processor. The spreadsheet processor should support operations on cells (setting values, computing values, copying), be able to calculate a cell’s value based on a formula, detect cyclic dependencies between cells, and allow saving and loading the table’s contents.
